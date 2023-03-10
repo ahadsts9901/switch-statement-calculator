@@ -1,3 +1,5 @@
+alert ('This web is responsive on all screens')
+
 function CalculateGrade(event)
 {
 

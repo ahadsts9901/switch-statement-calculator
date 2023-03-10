@@ -74,24 +74,27 @@ form{
     width: 8em;
     height: 2em;
     padding: 0.5em;
+    text-align: center;
     display: flex;
     justify-content: center;
     align-items: center;
     border-radius: 20px;
     background-color: #e0e0e0;
-    color: #fe8700;
+    color: #ac5c00;
 }
 
 #explanation{
-    width: 18em;
+    font-size: 1.5em;
+    width: 12em;
     height: 6em;
     padding: 0.5em;
+    text-align: center;
     display: flex;
     justify-content: center;
     align-items: center;
     border-radius: 20px;
     background-color: #e0e0e0;
-    color: #080808;    
+    color: #080808;
 }
 
 hr{
